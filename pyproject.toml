@@ -1,0 +1,21 @@
+[project]
+name = "scail2-long-video-context"
+description = "Smart context window model patches for SCAIL-2 long video workflows in ComfyUI."
+version = "0.1.0"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+classifiers = [
+    "Operating System :: OS Independent",
+    "Environment :: GPU :: NVIDIA CUDA",
+]
+
+[project.urls]
+Repository = "https://github.com/1GirlUniversity/ComfyUI-SCAIL2-LongVideoContext"
+"Bug Tracker" = "https://github.com/1GirlUniversity/ComfyUI-SCAIL2-LongVideoContext/issues"
+
+[tool.comfy]
+PublisherId = "TODO"
+DisplayName = "ComfyUI-SCAIL2-LongVideoContext"
+Icon = ""
+requires-comfyui = ">=0.3.0"

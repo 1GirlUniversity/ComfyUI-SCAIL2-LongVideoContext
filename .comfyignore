@@ -1,0 +1,7 @@
+# Files ignored only when publishing to Comfy Registry
+docs/
+.vscode/
+.idea/
+*.psd
+*.kra
+*.log

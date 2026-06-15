@@ -1,0 +1,2 @@
+# No external Python dependencies.
+# This node uses ComfyUI built-in comfy.context_windows.
