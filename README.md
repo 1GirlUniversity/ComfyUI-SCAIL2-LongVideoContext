@@ -116,4 +116,4 @@ strategy: force_official_81_5
 
 ## License
 
-MIT.
+GPL-3.0
