@@ -21,7 +21,7 @@ Clone this repository into your ComfyUI `custom_nodes` directory:
 
 ```bash
 cd /path/to/ComfyUI/custom_nodes
-git clone https://github.com/YOUR_GITHUB_USERNAME/ComfyUI-SCAIL2-LongVideoContext.git
+git clone https://github.com/1GirlUniversity/ComfyUI-SCAIL2-LongVideoContext.git
 ```
 
 Restart ComfyUI.
